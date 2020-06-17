@@ -2,7 +2,7 @@
 
 <h4>This app lets you calculate a tip simply and with no calculations!</h4>
 
-<a href=""><h3>Live Demo</h3></a>
+<a href="https://samod667.github.io/js-tip-calculator/"><h3>Live Demo</h3></a>
 
 ![img-1](img/img1.png)
 <br>
